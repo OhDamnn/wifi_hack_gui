@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-AetherSec WiFi Framework v3.0
+ODBWIFI GUI ONLY 
+OHDAMNBRO WiFi Framework GUIv3.0
 Advanced GUI for WiFi Penetration Testing
 Integrates: wifipumpkin3, airgeddon, KRACK attacks, CaptiveFlask
 
@@ -15,7 +16,7 @@ Features:
 - Manual AP Builder (hostapd + dnsmasq)
 - Multi-Terminal Support
 
-Author: AetherSec Team
+Author: OHDAMNBROS WIFI ATTACK GUI
 License: Educational Use Only
 ⚠️ AUTHORIZED PENETRATION TESTING ONLY!
 """
