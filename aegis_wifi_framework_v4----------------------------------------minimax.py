@@ -11,7 +11,7 @@ Features:
 - Post-exploitation (reverse shells, loot, nmap)
 - Context-aware activation (only when on same network)
 
-Author: Aegis Security Team
+Author: OHDAMNBRO WITH AI
 License: Educational Use Only
 ⚠️ AUTHORIZED PENETRATION TESTING ONLY!
 """
