@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Aegis WiFi & Post-Exploitation Framework v4.0
+Advanced Wireless GUI Pwn Toolkit - AWGPT v4.0
 Advanced WiFi Penetration Testing with Post-Exploitation Capabilities
 
 Features:
