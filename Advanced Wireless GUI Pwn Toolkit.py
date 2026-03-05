@@ -72,9 +72,9 @@ except ImportError as e:
 # CONFIGURATION & CONSTANTS
 # ============================================================================
 
-APP_NAME = "AetherSec WiFi Framework"
+APP_NAME = "WiFi Attack Framework"
 APP_VERSION = "3.0"
-AUTHOR = "AetherSec Team"
+AUTHOR = "ODBWIFI GUI ONLY"
 
 # Color Scheme (Cyber Dark Theme)
 COLORS = {
